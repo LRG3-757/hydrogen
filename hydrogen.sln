@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -29,3 +30,36 @@ Global
 		SolutionGuid = {E8EAF6B5-BD58-4219-AED2-9FEE030EC3FB}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hydrogen", "hydrogen\hydrogen.csproj", "{DECD67DF-8592-4830-A39B-992E5CCF0A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECD67DF-8592-4830-A39B-992E5CCF0A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECD67DF-8592-4830-A39B-992E5CCF0A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECD67DF-8592-4830-A39B-992E5CCF0A54}.Debug|x64.ActiveCfg = Debug|x64
+		{DECD67DF-8592-4830-A39B-992E5CCF0A54}.Debug|x64.Build.0 = Debug|x64
+		{DECD67DF-8592-4830-A39B-992E5CCF0A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECD67DF-8592-4830-A39B-992E5CCF0A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECD67DF-8592-4830-A39B-992E5CCF0A54}.Release|x64.ActiveCfg = Release|x64
+		{DECD67DF-8592-4830-A39B-992E5CCF0A54}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8EAF6B5-BD58-4219-AED2-9FEE030EC3FB}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 2a1f5e65626ce8990bb8c75b3253d402d80bfe83
